@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: white;
     border-radius: 12px;
     padding: 12px;
 }
@@ -17,20 +17,15 @@ div {
 
 h1 {
     padding: 20px;
-    color: #444;
+    color: black;
 }
 
 p {
-    color:antiquewhite;
+    color:black;
     font-size: 16px;
     line-height: 1.5;
     font-family: Iosevka;
     font-weight: bold;
-
-    border-style: solid;
-    border-width: 5px;
-    border-color: red;
-
     border-radius: 12px;
 }
 
@@ -44,21 +39,13 @@ a {
     text-decoration: none;
     font-weight: ultralight;
     underline: double;
-    underline-color: #ff0000;
-    overline: single;
-    overline-color: #ff0000;
-    strikethrough: true;
-    strikethrough-color: #ff0000;
+    underline-color: #007bff;
 
     margin-right: 50px;
 }
 
 ul, ol {
     margin-left: 20px;
-}
-
-ok {
-    color: red;
 }
 
 select {
